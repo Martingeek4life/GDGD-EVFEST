@@ -1,4 +1,4 @@
-# GDGD-EVFEST
+# GDG-DEVFEST
 Understand google translate and building machiine translation for low resources languages, @Martin Rodrigue Atangana Ongolo, e-mail: atanganamr@yahoo.com
 
 Documentation
