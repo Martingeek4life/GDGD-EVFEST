@@ -1,5 +1,5 @@
-# GDG-DEVFEST
-# Understand google translate and building machine translation for low resources languages, @Martin Rodrigue Atangana Ongolo, e-mail: atanganamr@yahoo.com
+# LABORATOIRE D'INFORMATIQUE DE GRENNOBLE , ESPERANTO , WHICH ARCHITECTURE AND HYPERPRAMETERS FOR TRAINING MACHINE TRANSLATION MODELS ON LOW RESOURCES LANGUAGES ?
+#  building machine translation for low resources languages, @Martin Rodrigue Atangana Ongolo, e-mail: atanganamr@yahoo.com
 
 Documentation
 
